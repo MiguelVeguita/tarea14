@@ -1,0 +1,4135 @@
+fileFormatVersion: 2
+guid: d7def67c61f9ef54e8b197c7a193cdd3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 483
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6c688a7d55a9d4ab8b1f8fa2441808
+      internalID: -500318345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 483
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd3c00b00efd324f8c0d10b1d1971b4
+      internalID: -798225627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 483
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de59b1003d81044ab7e6e5f8ed288b7
+      internalID: -1878569753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 483
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287242b5d0b97014a83d9a8a064ae321
+      internalID: -1946801203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 483
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a1c6ed730c51b48a1c0515d1018af6
+      internalID: -1747013983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_5
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 483
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af0b360141769640b2445f9b2bb441b
+      internalID: -98015738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_6
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 483
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860685f7afd46384c8d86df688984632
+      internalID: -342908602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_7
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 483
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0881248c6484fe4eb23a3afc3fb2f94
+      internalID: -786421927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 442
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bca7826188d6074a8e73bfa889e13fc
+      internalID: 1235146528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 442
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d05aa56afeb48241a56c1e4c0af8d03
+      internalID: 1665769536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 442
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e72b7f09625494486b6d4342870cc1
+      internalID: -619926387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 442
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ea79b70a2ecd64c8d5997f7f18b123
+      internalID: 1788978411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 442
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea1177018519624eb4a780f4f30d277
+      internalID: 1678672626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_13
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 442
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133d61fbd30f7a54fa99fe92739ab64a
+      internalID: -523065580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 442
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0dbf0f2388d59429360a3fa90e4544
+      internalID: -516545871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_15
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 442
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e3e27b0f2e29b4c946c7584fc3b6a5
+      internalID: -899921842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 401
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a336789e72d8444a14e576b20bcd77
+      internalID: 1246077920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 401
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18a2d4542782f3429f14752af6dc37c
+      internalID: -809506446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 401
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736ea9b80a417184e908246eb3c7f15b
+      internalID: 291101830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 401
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8f56e6dfbf9d14db870ec89b59d49b
+      internalID: 1071139017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 401
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a7a312aeb96254f98cbf5acbb97382
+      internalID: -1854742824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_21
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 401
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f238e0ebbdba2478f93fb0a26ffb09
+      internalID: 507122684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_22
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 401
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b7157ea01ecae4ba7e5fe4093cf3af
+      internalID: -817921791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 401
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6526d0fc51921f4a8a93a4e84614ca1
+      internalID: -1106367638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 360
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631e1e899061f2647a0219f4ed1d5486
+      internalID: -57836126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 360
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd8571e465ab344ebb37ca6baf90222
+      internalID: 917766815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 360
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca164537841ffab4aa1091e3c25f08b6
+      internalID: -1062305446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 360
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69e4446bea985140a96d1328ce6ff03
+      internalID: 1393844186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d350ef6c0ab8b41a80483cfc0e4fe7
+      internalID: 811830026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_29
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 360
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cf8a3a4e2a1dc409f0da4873227ff1
+      internalID: 1441014403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 360
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f5135d91cf96b48a3c5bcce2af2375
+      internalID: 955087740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_31
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 360
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf56a15255608544a75d2f3eaa11f05
+      internalID: -729386636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 350
+        width: 71
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ebdc606f927f447a317ef5ef6c4885
+      internalID: -1685539043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 347
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5d83ca281a735439533733499e38fe
+      internalID: -1493683248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_34
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 341
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2c8951b1590044baf2f7419ac67b74
+      internalID: 1781117206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 335
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefaf8bf9e3aa37498559f991f033537
+      internalID: 2006264127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_36
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 329
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89ee5711de16b94ab0e607ff8df88b8
+      internalID: 1928294182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_37
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 284
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef547cd48cadb744b8ce6c377ef3249b
+      internalID: 2057005662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_38
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 319
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e235000736db0a4eaf400c19f5d9a1e
+      internalID: -790601428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_39
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 293
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76587a7d4ff3a1468e1aa79a118ee6a
+      internalID: -1991729850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_40
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 293
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2100ee3dc8d214cb864ea52c5c78bd
+      internalID: -655808930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 293
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d60e319474ebd4ea9df9280980d5e9
+      internalID: 1026872675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_42
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 293
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad115a50ae8fc584e9fa43a025dc390f
+      internalID: 629682204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_43
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 295
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e0a83d27027d64bab642dde6db737e
+      internalID: 74463802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_44
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 296
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872081699c75f8f44b6377bb344a4f70
+      internalID: -1105683626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 298
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ea476344122df42a04e63057b22414
+      internalID: 778637321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 292
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c8aa2017ca3dd428cf671f392fd4e8
+      internalID: 1518733025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_47
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 289
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9128c24b0162385458a725ca797c8ec5
+      internalID: 417277267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_48
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 287
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeb63f9174df544fbcf2872bd7b37b7
+      internalID: 1804622851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_49
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 286
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b5e71d1bac17c4f9b30cacac58638a
+      internalID: 936504246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_50
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 285
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27f17075cdccb94899edfc7ae4364a8
+      internalID: 752220717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_51
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 297
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ffdf48177b69f4595113e18b3d1540
+      internalID: -1189106950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_52
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 298
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85e4a6f3607d184c894067ff0914730
+      internalID: -1746817566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_53
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 284
+        width: 5
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eafa04394e3dc7429331375a71a1791
+      internalID: -1513289055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_54
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 284
+        width: 5
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb2bf9e54f345b448db90e42bc0acda
+      internalID: 279683300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_55
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 257
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796edf69a02875c499f49c43298fc318
+      internalID: 358785462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_56
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 257
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9192b48bfa9009443b4d45d7c162137c
+      internalID: 1694846977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_57
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 257
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb28fad0c646d9b4ebaddd249fb23584
+      internalID: -616474059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_58
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 257
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2c99dfb4fe18a45bcc351d192d2dc5
+      internalID: -2134231817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_59
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 257
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45ba2382dc25d64b86b8a1a860355cc
+      internalID: 216278647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_60
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 257
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731abcf18fbb63747bbb26e90039c473
+      internalID: -1327993440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_61
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 257
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fbf2008f38c124a9d6ce936ca8aa39
+      internalID: 52172084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_62
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 257
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5407b27916a9fa40a130f9fdca961e4
+      internalID: -1664546002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_63
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 257
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623b52bbd19edd343b873d12e47d4dcc
+      internalID: 408319066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_64
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 242
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9437a8be71d18ea49b0cbe963955b181
+      internalID: 880758836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_65
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 257
+        width: 31
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e680bf6bca540194fac4eda90b8477d1
+      internalID: 1675800713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_66
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 197
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad114cfe03e2a104c8ed3a55d627b907
+      internalID: -1657563949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_67
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 239
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4037cce23fe791d46beca68f7f4c2514
+      internalID: -263048642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_68
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 234
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2694bd6f0c4c84084521fdd7aac080
+      internalID: 618294573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_69
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 237
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae6bc774d2387f4db77c8266e0d5206
+      internalID: -1549248581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_70
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 197
+        width: 63
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080a9132349f332499729bb68486ccd3
+      internalID: -1842749522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_71
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 197
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872c12970ec73a64e98c5111277c323d
+      internalID: 520506940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 197
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63022f33d601aeb47b207faa35e80684
+      internalID: -1521799981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_73
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 197
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41993935a87d87149b93ded090aeaed3
+      internalID: -419662390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_74
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 229
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a9f40f3c24d5a4e94c4f40807fb933
+      internalID: -1229744804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_75
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 197
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fa231eb9ac63344b72b752a3d7b986
+      internalID: 537524651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_76
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 134
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c46839ed9063194db23a4feac3b8b72
+      internalID: 664623227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_77
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 134
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f4a182ccb04e34899b8e7197eaa49d
+      internalID: -111552094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_78
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 175
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56984dd6a5ed9134cb33e46fa182273c
+      internalID: 1196220989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_79
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 134
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae6be00fd742ae4ba9be79988893986
+      internalID: 2113571394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_80
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 134
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c3dece5ed8f41429884f2a8c736593
+      internalID: 1011448704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_81
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 134
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261fe379b0bbbf9449394f24b1044486
+      internalID: 1546817166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_82
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 134
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08a264113c0f80409c736a0446a68df
+      internalID: -1211594559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_83
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 134
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdac628a3aa104347901f4cd04c77e4e
+      internalID: 633184827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_84
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 166
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac18f9e8ced3386428331b9eb80cbc03
+      internalID: 1729705423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 155
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0240e0a995d0381449d5588eeb27a6cc
+      internalID: -686731325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_86
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 72
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e44075de378af4a9bb59e4b821f8cc
+      internalID: 138905183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_87
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 72
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c36c3a53d82b6d44a1d9bd730f0fa51
+      internalID: 1118476702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_88
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 72
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e968493d2173754c8c0a98b4c1f1cb8
+      internalID: -942998811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_89
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 72
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295d103bbd6924f41ba93aa9aabcb155
+      internalID: -805643530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_90
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 72
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36be606506a7b74d85b7093248d257f
+      internalID: -519860267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dd356f5c09c8044945e4d60005d520
+      internalID: -1813316229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_92
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 72
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836b93b2b356e664a85fea93c8b1d2fd
+      internalID: 431470885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_93
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 115
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9967f5e839c664da60b25d6e246312
+      internalID: 1391361851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_94
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 116
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38edacd3c1d1fe84ebe1d97adb0f78d5
+      internalID: 98463984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_95
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 78
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ff4d128db072d47a1a541919aa4c73
+      internalID: -405400373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_96
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 83
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d449735daffe548aef7e76b524560b
+      internalID: -1399447462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_97
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 98
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8d56759a9c71644824396de2a8d81f
+      internalID: -1803763322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_98
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 82
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eb746704acc7f4593d061146e83fa2
+      internalID: -1287624651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_99
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 54
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570db474d6a847e41a221bacc3253917
+      internalID: -1890939947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_100
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 54
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6b864481987394b8726bbf8a73fddb
+      internalID: 795216827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_101
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 52
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2e23d0c80970247ad22ce8ff0db5ca
+      internalID: -1222205772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_102
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 54
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019fa517495e6aa41b50a32abaa85e8b
+      internalID: 1573310250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_103
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 54
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ff5d684b892304cb48d2fb867a4471
+      internalID: -649767198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_104
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 54
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293a5b7ed8fb88341bb3ad8c5a15ed92
+      internalID: -1205446489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_105
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 54
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959544cb1fdced24998c091f1c9b8d82
+      internalID: -1366340200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_106
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 47
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e09318152148d47a6c6d9207095ade
+      internalID: 1058643011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_107
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db90ce43680a4e74c978343ad3a845f2
+      internalID: 580464766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_108
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 46
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3740adc6c92636498d4337629d3670a
+      internalID: -1060066105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_109
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 46
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc37416926132ea41bb3728b0a4e842c
+      internalID: 39338380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_110
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 39
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbda90eb8ae94745a3a16007d218837
+      internalID: 1470227543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_111
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 32
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c99cb020250b44584a10635bfdfd68
+      internalID: 590396636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_112
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 47
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b42d3ba5dd43944b9c8447341b6b6f
+      internalID: 693814907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_113
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 47
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c437cdd6176d7a64ea02934b64cc2f90
+      internalID: -1824718723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_114
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cebd5d4aed7ae419e45e8a09480085
+      internalID: 368748654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_115
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 47
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa4633ea2d8bf2428579d9a272b298c
+      internalID: 1567253034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_116
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a55777f8bd722d41a4509203731d939
+      internalID: -897528743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_117
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 47
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9152935978e2431488cb933ced1ab164
+      internalID: 1594442100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_118
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 47
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66040de99fe6fa849bbed9fefa3ec2a5
+      internalID: 1303953413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_119
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 47
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ba977c8f03e2e49ba5f36e3d0ec4cb
+      internalID: -941396217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_120
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652c979c5a588834eb3bd22af5b0821b
+      internalID: -347564206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_121
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 47
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a23959f6e55fd5458c2775853c6b054
+      internalID: 729649139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_122
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 47
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe33a4a571b590d45a74b193b72a3be5
+      internalID: 474297462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_123
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 47
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c50a33f805de6f4ba34d531da3aebfd
+      internalID: 1703345831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_124
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 45
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eac1845a2d9de4a8891842f0cbb84a
+      internalID: 926269841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_125
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 47
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc243db9d4c51c4fbc9dc63dac7102a
+      internalID: 1577280765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_126
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 47
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c465b8893ccc94cb5ea2a7febb6f37
+      internalID: 1217727941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_127
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 47
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4f60e24bb32c14e8b3a9c3b5dd247b
+      internalID: -2017590629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_128
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 9
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6ffaf35bb8d2c47b774d46c05d6aff
+      internalID: -1798775134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_129
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 35
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ef8c8d844c9114b9d63528de155a64
+      internalID: 904424877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_130
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 33
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c792ffdf78f594b9a9bb5ebc2ad484
+      internalID: 1203188801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_131
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 33
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367d0a6d59d4c224ca8dbe278193404b
+      internalID: 1199009174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_132
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 35
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461f5a93869d1a548ad38db32d2b2f9a
+      internalID: 1971921734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_133
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 35
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e202fb856ddf734ca656d9c8211c8c0
+      internalID: 1300785161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_134
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 35
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430a32931c994044aaa3af14ce7d6254
+      internalID: -352176157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_135
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 33
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8f80d06f1e75d4ab819624fd2ca170
+      internalID: 910898332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_136
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 35
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b8a06e318d7e84f921ed3fb85761e6
+      internalID: 1689422916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_137
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 34
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cde50cf1520cd4ea9d364fa192919f
+      internalID: -1875534838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_138
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212f9eea9eaf769498dba39afc128396
+      internalID: -412333927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_139
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 35
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d9fcef78d8cbe489d57313c6801ec8
+      internalID: 941437687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_140
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 33
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d288f37197f51a7438ef772d8b2ac49a
+      internalID: -14998289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_141
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 35
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d20f0c15b653c488b206dff3cd0c6f
+      internalID: -1292568409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_142
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 35
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdaa93ed2e5be64f92986d510937e71
+      internalID: -267676789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_143
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 35
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642a93bf9df08a045a7d9c4b33f603a8
+      internalID: 1333869509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_144
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 35
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b299d41d07df05046bf2210c3f37f229
+      internalID: 481002322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_145
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 33
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d634abd8f86f14cbd55a0fb61b3509
+      internalID: 414430452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_146
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 35
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b283217d33e423f4ba4e2abc40458125
+      internalID: 1246027551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_147
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 35
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124b8a9935034674195260c9f2cbd34f
+      internalID: 791552548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_148
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 35
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2919101ba75d0cd499aee9b15c7466b6
+      internalID: -501905680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_149
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1b2dccb2e4fb743b4f61647eff9a37
+      internalID: -1279942356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_150
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 23
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf6661ebd1f128418f900f68db32294
+      internalID: 1745764063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_151
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 21
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76921dd78b977f4cb7b728cb7113e2a
+      internalID: 1983068271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_152
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 21
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ebf8f338689434cae64086b0a526c6
+      internalID: -1221803320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_153
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 21
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b04e1de6fadde549a1c9feefe7bfb47
+      internalID: -94667035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_154
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 23
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726820b2ea887fb48aecf0f5c7c310a0
+      internalID: 1872730201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_155
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 23
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb8d1e0140f89745b8a0a91cc9a85ad
+      internalID: -1959950045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_156
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 23
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7146d56a1f7e654595e5541361d7bc3
+      internalID: 2144271401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_157
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 23
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97108d0d7641b049a96193f9e247f69
+      internalID: -1437839347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_158
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 23
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3183fdbfcaeaa4fb678291aae6d020
+      internalID: -1492388632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_159
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c726451a5bd65c940bd740d116f213d7
+      internalID: 247076976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_160
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 23
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37288c22a901d74d96c5c83b19464aa
+      internalID: 699743195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_161
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 21
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ac9cd87c84ed74593867258e6ef06e
+      internalID: 89737421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_162
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 23
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fd9c561e71a95478f39da478c030be
+      internalID: 807116852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_163
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 23
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ea2d3f9caecbd49acf9ae40c0fa1e1
+      internalID: -1141290555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_164
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 23
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bf97b1c465a3f469e2af388455ad69
+      internalID: 332465309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_165
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e461dd7d3d2639d4a80dd3f34b1448f3
+      internalID: 84907227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_166
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 11
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12df26ea4fb306b4a98677fc44b6454e
+      internalID: -867767209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_167
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 11
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b8312f08078da40b6931fe7ff0b989
+      internalID: -1709033245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_168
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 11
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bac9246db996145abdb2cc7bbd826d
+      internalID: 1728850188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_169
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee04ed912c631d4b8bd6718dd8bfc34
+      internalID: -38777553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_170
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfe782457d5ce34f8d9d4b536f73452
+      internalID: 621625794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_171
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d06d6585b6d73c4594fa167620b09cb
+      internalID: -1613475483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_172
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 11
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733051ba181102a4c877120e472d5863
+      internalID: -1231281662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_173
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d19d6337fdeb8d40be0f5d77cd67d7a
+      internalID: 1944240806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_174
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3fa28b914accc4ba394a34e8fce107
+      internalID: 2105096560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_175
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ca581aa02433745aa253967b42fc87
+      internalID: 1275670260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_176
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a590d2a18f7e69f4d9868585545f0f7a
+      internalID: -1267260618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_177
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df216181e847564faad28b4ab92bb62
+      internalID: 762631638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_178
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118fb70efbb09ce4a88c4704da6b43d5
+      internalID: -225462883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_179
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 11
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7900892033a5141adac5ffecb7b83a
+      internalID: -547032043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_180
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 9
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47621f7a540a57b48a827132a2b32555
+      internalID: 63694571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_0: -500318345
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_1: -798225627
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_10: -619926387
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_100: 795216827
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_101: -1222205772
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_102: 1573310250
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_103: -649767198
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_104: -1205446489
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_105: -1366340200
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_106: 1058643011
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_107: 580464766
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_108: -1060066105
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_109: 39338380
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_11: 1788978411
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_110: 1470227543
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_111: 590396636
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_112: 693814907
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_113: -1824718723
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_114: 368748654
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_115: 1567253034
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_116: -897528743
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_117: 1594442100
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_118: 1303953413
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_119: -941396217
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_12: 1678672626
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_120: -347564206
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_121: 729649139
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_122: 474297462
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_123: 1703345831
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_124: 926269841
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_125: 1577280765
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_126: 1217727941
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_127: -2017590629
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_128: -1798775134
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_129: 904424877
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_13: -523065580
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_130: 1203188801
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_131: 1199009174
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_132: 1971921734
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_133: 1300785161
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_134: -352176157
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_135: 910898332
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_136: 1689422916
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_137: -1875534838
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_138: -412333927
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_139: 941437687
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_14: -516545871
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_140: -14998289
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_141: -1292568409
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_142: -267676789
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_143: 1333869509
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_144: 481002322
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_145: 414430452
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_146: 1246027551
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_147: 791552548
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_148: -501905680
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_149: -1279942356
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_15: -899921842
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_150: 1745764063
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_151: 1983068271
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_152: -1221803320
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_153: -94667035
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_154: 1872730201
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_155: -1959950045
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_156: 2144271401
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_157: -1437839347
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_158: -1492388632
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_159: 247076976
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_16: 1246077920
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_160: 699743195
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_161: 89737421
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_162: 807116852
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_163: -1141290555
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_164: 332465309
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_165: 84907227
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_166: -867767209
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_167: -1709033245
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_168: 1728850188
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_169: -38777553
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_17: -809506446
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_170: 621625794
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_171: -1613475483
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_172: -1231281662
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_173: 1944240806
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_174: 2105096560
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_175: 1275670260
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_176: -1267260618
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_177: 762631638
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_178: -225462883
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_179: -547032043
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_18: 291101830
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_180: 63694571
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_19: 1071139017
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_2: -1878569753
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_20: -1854742824
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_21: 507122684
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_22: -817921791
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_23: -1106367638
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_24: -57836126
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_25: 917766815
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_26: -1062305446
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_27: 1393844186
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_28: 811830026
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_29: 1441014403
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_3: -1946801203
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_30: 955087740
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_31: -729386636
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_32: -1685539043
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_33: -1493683248
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_34: 1781117206
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_35: 2006264127
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_36: 1928294182
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_37: 2057005662
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_38: -790601428
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_39: -1991729850
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_4: -1747013983
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_40: -655808930
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_41: 1026872675
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_42: 629682204
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_43: 74463802
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_44: -1105683626
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_45: 778637321
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_46: 1518733025
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_47: 417277267
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_48: 1804622851
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_49: 936504246
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_5: -98015738
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_50: 752220717
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_51: -1189106950
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_52: -1746817566
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_53: -1513289055
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_54: 279683300
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_55: 358785462
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_56: 1694846977
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_57: -616474059
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_58: -2134231817
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_59: 216278647
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_6: -342908602
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_60: -1327993440
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_61: 52172084
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_62: -1664546002
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_63: 408319066
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_64: 880758836
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_65: 1675800713
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_66: -1657563949
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_67: -263048642
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_68: 618294573
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_69: -1549248581
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_7: -786421927
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_70: -1842749522
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_71: 520506940
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_72: -1521799981
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_73: -419662390
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_74: -1229744804
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_75: 537524651
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_76: 664623227
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_77: -111552094
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_78: 1196220989
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_79: 2113571394
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_8: 1235146528
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_80: 1011448704
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_81: 1546817166
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_82: -1211594559
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_83: 633184827
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_84: 1729705423
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_85: -686731325
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_86: 138905183
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_87: 1118476702
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_88: -942998811
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_89: -805643530
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_9: 1665769536
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_90: -519860267
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_91: -1813316229
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_92: 431470885
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_93: 1391361851
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_94: 98463984
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_95: -405400373
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_96: -1399447462
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_97: -1803763322
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_98: -1287624651
+      Neo Geo NGCD - Metal Slug 2 Metal Slug X - Mini-UFO_99: -1890939947
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
